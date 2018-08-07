@@ -2,8 +2,10 @@
 
 ## Integrantes
   Pablo Arancibia
-  Bastian Berrios
-  Raul Silva
+  
+  Bastian Berrios 
+  
+  Raul Silva 
   
 ## Tipo de proyecto
   Servico de reporte
