@@ -20,7 +20,7 @@
   MySQL v.8.0.12, lo elegimos ya que tenemos una base de cómo funciona este gestor y es uno de los que se está utilizando más en la actualidad. 
   
 ## Sistema Operativo
-  Windows 10 Pro v.1803 utilizando Docker con contenedores basados en Windows.
+  Windows 10 Pro v.1803 utilizando Docker con contenedores basados en Linux.
   
 ## Lenguaje de Programación
   Python v.3.7.0, debido a que es el idioma que mejor se maneja el grupo de trabajo.
